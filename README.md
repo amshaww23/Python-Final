@@ -3,10 +3,14 @@
 TripGPT is a personalized recommendation GUI engine, analyze user preferred activities to generate destination suggestions. Hosts interactive forums where users can ask questions, seek advice, and can have access to genuine reviews from diverse community of travelers. 
 
 Table of Content
+
 1.Core Functions
+
 2.Prerequisites
+
 3.Installation
-4.Contributors:
+
+4.Contributors
 
 ## Core Functions:
 

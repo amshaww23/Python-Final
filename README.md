@@ -4,10 +4,10 @@ TripGPT is a personalized recommendation GUI engine, analyze user preferred acti
 
 Table of Content
 
-1.Core Functions
-2.Prerequisites
-3.Installation
-4.Contributors
+* 1.Core Functions
+* 2.Prerequisites
+* 3.Installation
+* 4.Contributors
 
 ## Core Functions:
 
